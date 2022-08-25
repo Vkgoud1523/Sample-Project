@@ -2,4 +2,5 @@
 
 this is a first Sample project
 
-made some changes
+made some changess
+snx jsc 
